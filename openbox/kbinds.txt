@@ -1,0 +1,24 @@
+o C-A-Left        	GoToDesktop
+o C-A-Right       	GoToDesktop
+o C-A-Up          	GoToDesktop
+o C-A-Down        	GoToDesktop
+o S-A-Left        	SendToDesktop
+o S-A-Right       	SendToDesktop
+o S-A-Up          	SendToDesktop
+o S-A-Down        	SendToDesktop
+o W-F1            	GoToDesktop
+o W-F2            	GoToDesktop
+o W-F3            	GoToDesktop
+o W-F4            	GoToDesktop
+o W-d             	ToggleShowDesktop
+o A-F4            	Close
+o A-Escape        	Lower
+o A-space         	client-menu
+o A-Tab           	NextWindow
+o A-S-Tab         	PreviousWindow
+o C-A-Tab         	NextWindow
+o W-S-Right       	DirectionalCycleWindows
+o W-S-Left        	DirectionalCycleWindows
+o W-S-Up          	DirectionalCycleWindows
+o W-S-Down        	DirectionalCycleWindows
+x W-e             	kfmclient openProfile filemanagement
